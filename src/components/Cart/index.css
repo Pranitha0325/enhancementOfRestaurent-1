@@ -1,0 +1,13 @@
+.image {
+  height: 10vh;
+}
+.cart-list {
+  list-style: none;
+}
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+}
+.item-quantity{
+  display:flex;
+}
